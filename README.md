@@ -1,5 +1,4 @@
-<!--
-**rajputriya708-j# Hi, I'm Riya Rajput 👋
+# Hi, I'm Riya Rajput 👋
 
 ### Aspiring Software Developer | Frontend Developer | Java & DSA Learner
 
@@ -52,6 +51,3 @@ Welcome to my GitHub profile! I'm a passionate developer who enjoys learning new
 ---
 
 ⭐ Thanks for visiting my profile! Feel free to explore my repositories.
-pg/rajputriya708-jpg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
--->
